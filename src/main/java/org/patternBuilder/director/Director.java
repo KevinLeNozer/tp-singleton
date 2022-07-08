@@ -1,8 +1,7 @@
-package org.example.director;
+package org.patternBuilder.director;
 
-import org.example.builder.ZooBuilder;
-import org.example.zoo.Animal;
-import org.example.zoo.Zone;
+import org.patternBuilder.builder.ZooBuilder;
+import org.patternBuilder.zoo.Animal;
 
 public class Director {
 

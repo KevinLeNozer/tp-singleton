@@ -1,8 +1,8 @@
-package org.example.builder;
+package org.patternBuilder.builder;
 
-import org.example.zoo.Animal;
-import org.example.zoo.Zone;
-import org.example.zoo.Zoo;
+import org.patternBuilder.zoo.Animal;
+import org.patternBuilder.zoo.Zone;
+import org.patternBuilder.zoo.Zoo;
 
 import java.util.ArrayList;
 import java.util.List;

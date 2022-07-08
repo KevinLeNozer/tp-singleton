@@ -1,4 +1,4 @@
-package org.example.zoo;
+package org.patternBuilder.zoo;
 
 public class Main {
     public static void main(String[] args) {

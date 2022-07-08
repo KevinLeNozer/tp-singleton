@@ -1,8 +1,8 @@
-package org.example;
+package org.patternBuilder;
 
-import org.example.builder.ZooBuilder;
-import org.example.director.Director;
-import org.example.zoo.Zoo;
+import org.patternBuilder.builder.ZooBuilder;
+import org.patternBuilder.director.Director;
+import org.patternBuilder.zoo.Zoo;
 
 public class App {
     public static void main(String[] args) {

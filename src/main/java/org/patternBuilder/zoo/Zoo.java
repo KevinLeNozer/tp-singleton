@@ -1,4 +1,4 @@
-package org.example.zoo;
+package org.patternBuilder.zoo;
 
 import java.util.ArrayList;
 import java.util.List;
